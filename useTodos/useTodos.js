@@ -1,5 +1,5 @@
 import { useReducer } from "react"
-import {todoReducer} from '../todoReducer'
+import {todoReducer} from './todoReducer'
 import { useEffect } from "react";
 
 export const useTodos = ()=>{
